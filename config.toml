@@ -1,0 +1,6 @@
+baseURL = "https://nbernard.io/"
+languageCode = "fr-fr"
+title = "Nicolas BERNARD"
+theme = "heather-hugo"
+pygmentsCodefences = true
+pygmentsUseClasses = true
